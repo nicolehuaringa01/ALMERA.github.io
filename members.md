@@ -11,7 +11,7 @@ The IAEA Environment Laboratories in Seibersdorf and Monaco are additional membe
 
 The complete list of the ALMERA network laboratories is available below:
 
-[← List of Countries]([ALMERA-Directory_April 2025.docx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fnicolehuaringa01%2FALMERA4.github.io%2Frefs%2Fheads%2Fmain%2FALMERA-Directory_April%25202025.docx&wdOrigin=BROWSELINK))
+([← List of Countries](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fnicolehuaringa01%2FALMERA4.github.io%2Frefs%2Fheads%2Fmain%2FALMERA-Directory_April%25202025.docx&wdOrigin=BROWSELINK))
 
 [← Back to Home](index.md)
 
