@@ -49,3 +49,5 @@ Date and time: 5 May 2021 09:00-11:00 CET (07:00-9:00 GMT)
 
 ## Presentations and recordings
 All sessions were recorded and made available online for those who were not able to join live. The files from past sessions can be found [here](https://nucleus.iaea.org/sites/AnalyticalReferenceMaterials/Shared%20Documents/Publications/Webinars/2021-ALMERA-Webinars.zip)
+
+[← Back to Home](index.md)
