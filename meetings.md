@@ -22,15 +22,15 @@ The annual coordination meetings are listed in the table below:
 | 2012 | 9th  | TAEK, Ankara, Turkey | 46 | 27 | 13–16 Nov 2006  |
 | 2013 | 10th | CNSC, Ottawa, Canada | 35 | 21 | 16–18 Oct 2013 | 
 | 2014 | 11th | IAEA, Vienna | 84 | 50 | 7–10 Oct 2014 |
-| 2015 | 12th | IAEA Environment Laboratories, Monaco | 61 | 44 | — | — |
-| 2016 | 13th | ANSTO, Sydney, Australia | 50 | 31 | — | — |
-| 2017 | 14th | SSM, Stockholm, Sweden | 74 | 45 | — | — |
-| 2018 | 15th | JAEC, Amman, Jordan | 49 | 39 | — | — |
-| 2019 | 16th | Schwarzenburg, Switzerland | 64 | 46 | — | — |
-| 2020 | 17th | Virtual Meeting, IAEA | 180 | 66 | — | — |
-| 2021 | 18th | Virtual Meeting, IAEA | 231 | 65 | — | — |
-| 2022 | 19th | IAEA Marine Environment Laboratories, Monaco | — | — | — | — |
-| 2023 | 20th | IAEA Headquarters, Vienna | — | — | — | — |
+| 2015 | 12th | IAEA Environment Laboratories, Monaco | 61 | 44 | 13–15 Oct 2015 |
+| 2016 | 13th | ANSTO, Sydney, Australia | 50 | 31 | 26–28 Oct 2016 |
+| 2017 | 14th | SSM, Stockholm, Sweden | 74 | 45 | 23–25 Oct 2017 |
+| 2018 | 15th | JAEC, Amman, Jordan | 49 | 39 | — |
+| 2019 | 16th | Schwarzenburg, Switzerland | 64 | 46 | — |
+| 2020 | 17th | Virtual Meeting, IAEA | 180 | 66 | — |
+| 2021 | 18th | Virtual Meeting, IAEA | 231 | 65 | — |
+| 2022 | 19th | IAEA Marine Environment Laboratories, Monaco | — | — | — |
+| 2023 | 20th | IAEA Headquarters, Vienna | — | — | — | 
 | 2024 | 21st | Rabat, Morocco | — | — | — | — |
 | 2025 | 22nd | Munich, Germany | — | — | — | — |
 
