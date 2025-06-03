@@ -1,0 +1,38 @@
+---
+layout: default
+title: Meetings
+---
+
+# Coordination Meetings
+
+The annual coordination meetings of the ALMERA network take place on rotation in the different regional groups of the network. They aim at assessing the current status of the ALMERA network and at defining the future activities of the network.
+
+The annual coordination meetings are listed in the table below:
+
+| Year | Meeting # | Location | Participants | Member States | Dates | 
+|:----:|:---------:|:--------:|:------------:|:-------------:|:-----:|
+| 1997 | 1st  | IAEA, Vienna | 38 | 15 | 17 Nov 1997 |
+| 2005 | 2nd  | ICTP, Trieste, Italy | 45 | 29 | 14–18 Nov 2005 |
+| 2006 | 3rd  | KINS, Daejeon, Republic of Korea | 36 | 17 | 13–16 Nov 2006 |
+| 2007 | 4th  | ICTP, Trieste, Italy | 61 | 34 | 5–7 Nov 2007 |
+| 2008 | 5th  | CNEN-IRD, Rio de Janeiro, Brazil | 27 | 17 | 27–29 Oct 2008 |
+| 2009 | 6th  | Food & Feed Safety Directorate, Budapest, Hungary | 51 | 22 | 23–25 Nov 2009 |
+| 2010 | 7th  | ERPA, Addis-Ababa, Ethiopia | 60 | 22 | 11–13 Oct 2010 | 
+| 2011 | 8th  | IAEA, Vienna | 79 | 48 | 5–7 Sept 2011 | 
+| 2012 | 9th  | TAEK, Ankara, Turkey | 46 | 27 | 13–16 Nov 2006  |
+| 2013 | 10th | CNSC, Ottawa, Canada | 35 | 21 | 16–18 Oct 2013 | 
+| 2014 | 11th | IAEA, Vienna | 84 | 50 | 7–10 Oct 2014 |
+| 2015 | 12th | IAEA Environment Laboratories, Monaco | 61 | 44 | — | — |
+| 2016 | 13th | ANSTO, Sydney, Australia | 50 | 31 | — | — |
+| 2017 | 14th | SSM, Stockholm, Sweden | 74 | 45 | — | — |
+| 2018 | 15th | JAEC, Amman, Jordan | 49 | 39 | — | — |
+| 2019 | 16th | Schwarzenburg, Switzerland | 64 | 46 | — | — |
+| 2020 | 17th | Virtual Meeting, IAEA | 180 | 66 | — | — |
+| 2021 | 18th | Virtual Meeting, IAEA | 231 | 65 | — | — |
+| 2022 | 19th | IAEA Marine Environment Laboratories, Monaco | — | — | — | — |
+| 2023 | 20th | IAEA Headquarters, Vienna | — | — | — | — |
+| 2024 | 21st | Rabat, Morocco | — | — | — | — |
+| 2025 | 22nd | Munich, Germany | — | — | — | — |
+
+
+[← Back to Home](index.md)
