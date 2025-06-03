@@ -19,7 +19,7 @@ The annual coordination meetings are listed in the table below:
 | 2009 | 6th  | Food & Feed Safety Directorate, Budapest, Hungary | 51 | 22 | 23–25 Nov 2009 |
 | 2010 | 7th  | ERPA, Addis-Ababa, Ethiopia | 60 | 22 | 11–13 Oct 2010 | 
 | 2011 | 8th  | IAEA, Vienna | 79 | 48 | 5–7 Sept 2011 | 
-| 2012 | 9th  | TAEK, Ankara, Turkey | 46 | 27 | 13–16 Nov 2006  |
+| 2012 | 9th  | TAEK, Ankara, Turkey | 46 | 27 | 13–16 Nov 2012  |
 | 2013 | 10th | CNSC, Ottawa, Canada | 35 | 21 | 16–18 Oct 2013 | 
 | 2014 | 11th | IAEA, Vienna | 84 | 50 | 7–10 Oct 2014 |
 | 2015 | 12th | IAEA Environment Laboratories, Monaco | 61 | 44 | 13–15 Oct 2015 |
@@ -34,7 +34,16 @@ The annual coordination meetings are listed in the table below:
 | 2024 | 21st | Rabat, Morocco | — | — | — | 5–7 Nov 2024 |
 | 2025 | 22nd | Munich, Germany | — | — | — | — |
 
-### Upcoming Meeting
-## 22nd ALMERA Coordination Meeting, Munich, Germany. 
+#### Upcoming Meeting
+### 22nd ALMERA Coordination Meeting, Munich, Germany. 
+
+## Regional Meetings
+| Year | Meeting | Location | Dates | 
+|:----:|:---------:|:--------:|:-----:|
+| 2011 | 1st ALMERA Regional Coordinators’ meeting | IAEA Marine Environment Laboratories, Monaco | 27-29 July 2011 |
+| 2009 | Preparatory meeting to annual  coordination meeting | ERPA Addis-Ababa, Ethiopia | 16-18 December 2009 |
+| 2009 | 1st ALMERA Regional Coordinators’ meeting | KINS, Daejon, Korea | 20-22 April 2009 |
+| 2007 | Asia-Pacific regional meeting | KINS, Daejon, Korea | 10-12 December 2007 |
+
 
 [← Back to Home](index.md)
