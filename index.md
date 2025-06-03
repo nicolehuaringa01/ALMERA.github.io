@@ -22,4 +22,4 @@ Participation of laboratories in the network activities results in:
 - [Workshops](workshops.md)
 - [Webinars](webinars.md)
 - [Contact Persons](contact.md)
-- [ALMERA Inside](inside.md)
+- [ALMERA Inside](https://teams.microsoft.com/l/team/19:c359651111d64497970da3e1230cdd75@thread.tacv2/conversations?groupId=878cac38-f62e-4437-8d57-86cfd70a84f5&tenantId=a2f21493-a4d1-4b7f-ad07-819c824f5c4a)
