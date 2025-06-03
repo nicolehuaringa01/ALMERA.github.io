@@ -16,7 +16,7 @@ Participation of laboratories in the network activities results in:
 
 - [Members](members.md)
 - [Structure](structure.md)
-- [Conference Meetings](meetings.md)
+- [Coordination Meetings](meetings.md)
 - [Proficiency Tests](tests.md)
 - [Validated Analytical Methods](methods.md)
 - [Workshops](workshops.md)
