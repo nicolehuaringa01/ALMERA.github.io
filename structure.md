@@ -3,7 +3,7 @@ layout: default
 title: Structure
 ---
 
-Network Structure
+# Network Structure
 
 The International Atomic Energy Agency’s Environment Laboratories are the central coordinator of the ALMERA network's activities.
 
