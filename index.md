@@ -12,7 +12,7 @@ Participation of laboratories in the network activities results in:
 - Wider application of recommended validated methods and methodological harmonization, leading to enhanced world-wide comparability of environmental radioactivity measurement results;
 - Shared information on available analytical capabilities and expertise, which facilitates the identification of laboratories with competence in specific areas of interest, particularly in emergency situations.
 
-## Navigation
+## For more information, visit the following pages:
 
 - [Members](members.md)
 - [Structure](structure.md)
