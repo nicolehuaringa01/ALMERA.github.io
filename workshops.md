@@ -30,3 +30,5 @@ ALMERA workshops and training courses aim at giving the opportunity to scientist
 | 2022  | [Quality Assurance/Quality Control for Environmental Radioanalytical Laboratories](https://teams.microsoft.com/l/channel/19%3A6fe14d2641ae4a20a43d572bef9bdea2%40thread.tacv2/EVT2104246%202022%20QA-QC%20Training%20Workshop%20(copy)?groupId=878cac38-f62e-4437-8d57-86cfd70a84f5&tenantId=)|     226      |       62       | IAEA (Virtually) | 27 June - 1 July 2022 |
 | 2023  | [Advanced Topics in Radiochemistry Techniques: Lead-210 and Polonium-210](https://teams.microsoft.com/l/channel/19%3A9db576c9ad004ceb926a533ccb0cef54%40thread.tacv2/EVT2204728%202023%20Training%20Workshop?groupId=878cac38-f62e-4437-8d57-86cfd70a84f5&tenantId=)                                                            |     262      |       67       | IAEA (Virtually) | 9-12 October 2023 |
 | 2024  | [Environmental Sampling Techniques](https://www.iaea.org/newscenter/news/advancing-environmental-sampling-techniques-iaeas-almera-network-workshop-in-switzerland) |      26      |       25       | Labor Spiez, Switzerland | 3-7 June 2024 |
+
+[← Back to Home](index.md)
