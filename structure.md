@@ -1,3 +1,8 @@
+layout: default
+title: Members
+
+Network Structure
+
 The International Atomic Energy Agency’s Environment Laboratories are the central coordinator of the ALMERA network's activities.
 
 To facilitate interactions between the ALMERA laboratories, the network is subdivided into the following regional groups:
